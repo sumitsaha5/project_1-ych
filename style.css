@@ -70,7 +70,7 @@ body {
 
 .hero-section .left img {
   width: 31.25rem;
-  height: 31.25rem;
+  height: 29.25rem;
   margin-left: -1.5rem;
   margin-top: 5.625rem;
 }
@@ -552,4 +552,20 @@ span{
   .six .main-six .right .cont{
     margin-top: 60px;
   }
+}
+.BT-01 a{
+  text-decoration: none;
+  color: white;
+}
+.BT-02 a{
+  text-decoration: none;
+  color: white;
+}
+.BT-03 a{
+  text-decoration: none;
+  color: white;
+}
+.B1 a{
+  text-decoration: none;
+  /* color: white; */
 }
